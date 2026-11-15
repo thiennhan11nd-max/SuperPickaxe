@@ -1,0 +1,12 @@
+name: SuperPickaxe
+version: 1.0
+main: com.pickaxe.PickaxePlugin
+api-version: '1.21'
+description: 10 loai cup xin - Tu Kim Cuong tro len
+commands:
+  cup:
+    description: Lay cup
+    usage: /cup <1-10|memmai>
+  cuplist:
+    description: Xem danh sach cup
+    usage: /cuplist
